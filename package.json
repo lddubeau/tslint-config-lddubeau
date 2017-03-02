@@ -1,0 +1,27 @@
+{
+  "name": "tslint-config-lddubeau",
+  "version": "1.0.0",
+  "description": "A common set of tslint settings for my projects.",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lddubeau/tslint-config-lddubeau.git"
+  },
+  "keywords": [
+    "tslint",
+    "typescript",
+    "lint"
+  ],
+  "author": "Louis-Dominique Dubeau <ldd@lddubeau.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lddubeau/tslint-config-lddubeau/issues"
+  },
+  "homepage": "https://github.com/lddubeau/tslint-config-lddubeau#readme",
+  "dependencies": {
+    "tslint-microsoft-contrib": "^4.0.0"
+  },
+  "peerDependencies": {
+    "tslint": "^4.0.0"
+  }
+}
