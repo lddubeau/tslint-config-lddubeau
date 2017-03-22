@@ -16,6 +16,7 @@
     "member-ordering": [false,
                         "Off because it forces moving apart code that ",
                         "is logically related to one another"],
+    "no-parameter-properties": [false, "MS wants this. I don't."],
     "one-line": false,
     "interface-name": false,
     "member-access": false,
