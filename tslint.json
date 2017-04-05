@@ -17,6 +17,8 @@
                         "Off because it forces moving apart code that ",
                         "is logically related to one another"],
     "no-parameter-properties": [false, "MS wants this. I don't."],
+    "no-multiline-string": [false, "Duplicates no-multi-str. Seems to be useful only for ",
+                           "supporting old browsers."],
     "no-unsafe-any": [false, "This rule is buggy see #2494"],
     "one-line": false,
     "interface-name": false,
