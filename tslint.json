@@ -17,6 +17,7 @@
                         "Off because it forces moving apart code that ",
                         "is logically related to one another"],
     "no-parameter-properties": [false, "MS wants this. I don't."],
+    "no-unsafe-any": [false, "This rule is buggy see #2494"],
     "one-line": false,
     "interface-name": false,
     "member-access": false,
