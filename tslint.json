@@ -1,7 +1,7 @@
 {
   "extends": "tslint-microsoft-contrib",
   "rules": {
-    "no-unused-variable": [false, "This is a deprecated rule."],
+    "no-unused-variable": true,
     "no-relative-imports": [false, "MS rule. Asinine rule."],
     "export-name": [false, "MS rule. This rule is too strict."],
     "function-name": [false, "MS rule. This rule is too strict."],
