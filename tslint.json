@@ -23,6 +23,11 @@
     "no-unsafe-any": [false, "This rule is buggy see tslint #2494"],
     "no-string-based-set-timeout": [false,
                                     "This rule is buggy, see MS contrib #355."],
+    "align": [
+      true,
+      "parameters",
+      "statements"
+    ],
     "max-line-length": [true, 80],
     "one-line": false,
     "interface-name": false,
