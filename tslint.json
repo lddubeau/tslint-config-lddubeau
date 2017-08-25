@@ -42,6 +42,7 @@
                 "property-declaration", "member-variable-declaration"],
     "variable-name": [true, "check-format", "allow-leading-underscore",
                       "allow-trailing-underscore", "ban-keywords"],
-    "no-angle-bracket-type-assertion": true
+    "no-angle-bracket-type-assertion": true,
+    "jsdoc-format": true
   }
 }
