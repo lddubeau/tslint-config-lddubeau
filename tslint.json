@@ -23,6 +23,11 @@
     "no-unsafe-any": [false, "This rule is buggy see tslint #2494"],
     "no-string-based-set-timeout": [false,
                                     "This rule is buggy, see MS contrib #355."],
+    "no-redundant-jsdoc": [false,
+                           "This balks at usages of @private, but it is ",
+                           "useful for typedoc. (Probably typedoc should be",
+                           "modified to consider exported module symbols",
+                           "public otherwise private."],
     "align": [
       true,
       "parameters",
