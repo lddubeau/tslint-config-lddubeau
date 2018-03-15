@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-lddubeau",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A common set of tslint settings for my projects.",
   "main": "tslint.json",
   "repository": {
