@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/lddubeau/tslint-config-lddubeau#readme",
   "dependencies": {
-    "tslint-microsoft-contrib": ">=5.0.1 <5.1.0"
+    "tslint-microsoft-contrib": "^5.2.1"
   },
   "peerDependencies": {
     "tslint": "^5.3.0"
