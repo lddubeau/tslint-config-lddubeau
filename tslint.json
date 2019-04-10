@@ -49,6 +49,7 @@
                       "allow-trailing-underscore", "ban-keywords"],
     "no-angle-bracket-type-assertion": true,
     "jsdoc-format": true,
-    "no-this-assignment": [true, {"allow-destructuring": true }]
+    "no-this-assignment": [true, {"allow-destructuring": true }],
+    "no-object-literal-type-assertion": [true, { "allow-arguments": true }]
   }
 }
