@@ -1,5 +1,5 @@
 {
-  "extends": "tslint-microsoft-contrib",
+  "extends": ["tslint:recommended", "tslint-microsoft-contrib/recommended"],
   "rules": {
     "no-unused-variable": true,
     "no-relative-imports": [false, "MS rule. Asinine rule."],
