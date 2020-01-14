@@ -17,6 +17,14 @@
                         "is logically related to one another"],
     "no-string-based-set-timeout": [false,
                                     "This rule is buggy, see MS contrib #355."],
+    "chai-vague-errors": [
+      false,
+      "It seems to me this rule has gotten stricter and stricter over time.",
+      "While I agree with the general sentiment, it has gotten to the point of",
+      "utter uselessness now. Most of my Mocha tests are narrow enough that the",
+      "test title tells you what the problem is. Screaming about vague chai",
+      "errors is not helpful."
+    ],
     "align": [
       true,
       "parameters",
